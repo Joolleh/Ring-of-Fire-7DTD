@@ -1,0 +1,13 @@
+<configs>
+
+<append xpath="/recipes/recipe[@name='foodChiliDog']">
+<ingredient name="drugRecog" count="1"/>
+</append>
+
+</configs>
+
+
+<!--<recipe name="foodChiliDog" count="1" craft_area="campfire" craft_tool="toolCookingPot" tags="learnable">
+	<ingredient name="foodCanChili" count="1"/>
+	<ingredient name="foodCornBread" count="1"/>
+	<ingredient name="foodRawMeat" count="5"/> -->

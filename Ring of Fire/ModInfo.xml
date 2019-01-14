@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <ModInfo>
+        <Name value="Burning Ring of Fire buff" />
+        <Description value="Set fire to all entities within 10 metres for 1 minute" />
+        <Author value="Jolly" />
+        <Version value="1" />
+    </ModInfo>
+</xml>

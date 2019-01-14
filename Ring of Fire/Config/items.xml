@@ -1,0 +1,13 @@
+<configs>
+
+<append xpath="/items/item[@name='foodChiliDog']/effect_group[@tiered='false']">
+<triggered_effect trigger="onSelfPrimaryActionEnd" action="AddBuff" target="self" buff="buffRingOfFire"/>
+</append>
+
+<set xpath="/items/item[@name='foodChiliDog']/property[@name='Extends' and @value='foodCanHam']/@value">foodCornOnTheCob</set>
+
+
+</configs>
+
+
+
