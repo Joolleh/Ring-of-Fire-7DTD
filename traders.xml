@@ -1,0 +1,6 @@
+<configs>
+
+<remove xpath="/traders/trader_item_groups/trader_item_group[@name='preparedFood']/item[@name='foodChiliDog']"/>
+
+
+</configs>
